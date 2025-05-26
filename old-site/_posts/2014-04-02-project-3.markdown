@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+date: 2014-04-02
+img: related.png
+alt: image-alt
+title: Related Data Products
+description: Expose data product related usecases and dataproducts as part of the package - customer can see how data product provides value. 
+---

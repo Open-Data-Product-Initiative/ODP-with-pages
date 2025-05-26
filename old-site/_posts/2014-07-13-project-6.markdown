@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
+alt: image-alt
+title: Licensing attributes
+description: With help of 21 items wide licensing model offers clear model to communicate conditions, privacy, and rights to the customer.
+---

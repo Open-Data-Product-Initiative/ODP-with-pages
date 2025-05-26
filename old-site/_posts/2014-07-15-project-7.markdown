@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: game.png
+title: Related Use Cases
+alt: image-alt
+description: Expose data product related usecases as part of the package - customer can see how data product provides value. 
+---

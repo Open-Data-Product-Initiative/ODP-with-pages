@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: cake.png
+title: Machine-readable
+alt: image-alt
+description: ODPS is machine-readable and suitable for automation purposes and be part of your data architecture and governance. 
+---

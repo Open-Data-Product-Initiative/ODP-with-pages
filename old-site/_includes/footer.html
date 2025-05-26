@@ -1,0 +1,54 @@
+<!-- Footer -->
+<footer class="text-center">
+  <div class="footer-above">
+    <div class="container">
+      <div class="row">
+        <div class="footer-col col-md-4">
+          <h3>About</h3>
+          <p>
+            {% for adress in site.address %}
+            {{ adress.line }} <br>
+            {% endfor %}
+          </p>
+        
+          <p>ODPS is Linux Foundation Project</p>
+          <p><a href="https://www.linuxfoundation.org"><img alt="Linux Foundation" style="width:200px;" src="img/lf-stacked-color.png"/></a></p>
+          <p><a href="https://medium.com/@kyyberi/is-open-data-product-specification-the-swagger-of-the-data-economy-fe2349e39ea7">Short history of ODPS</a></p>
+          <p><a href="img/ODPS-logos.zip">ODPS logos</a></p>
+          <p><a href="https://opendataproducts.org/v3.0/">ODPS 3.0</a></p> 
+          <p><a href="https://opendataproducts.org/dev/">ODPS development version</a></p> 
+          <p><a href="https://github.com/Open-Data-Product-Initiative">Github home</a></p>
+          <p><a href="https://blog.opendataproducts.org">Blog posts in Medium</a></p>
+          
+
+        </div>
+        <div class="footer-col col-md-4">
+          <h3>Copyright</h3>
+          <p>Copyright © Open Data Product Specification a Series of LF Projects, LLC</p>
+          <p>For web site terms of use, trademark policy and other project policies please see <a style="color: #fff;" href="https://lfprojects.org">https://lfprojects.org.</a></p>
+        </div>
+        <div class="footer-col col-md-4">
+          <h3>{{ site.footer.credits }}</h3>
+          
+          <p>{{ site.credits }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-below">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+         
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+<div class="scroll-top page-scroll visible-xs visible-sm">
+  <a class="btn btn-primary" href="#page-top">
+    <i class="fa fa-chevron-up"></i>
+  </a>
+</div>

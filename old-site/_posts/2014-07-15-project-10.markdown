@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 10
+date: 2014-07-15
+img: dataops.png
+title: DataOps
+alt: image-alt
+description: DataOps defined in 14 attributes to enable automation, Data access to content with 9 standard attributes to design and define customer facing interface. Data quality framework with 7 described standard indicators
+
+---
