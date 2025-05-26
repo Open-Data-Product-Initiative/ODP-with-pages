@@ -8,7 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 
-gem "jekyll", "~> 4.3.0"
+# Comment out the standalone Jekyll gem when using GitHub Pages
+# gem "jekyll", "~> 4.3.0"
 
 # This is the default theme for new Jekyll sites.
 gem "minima", "~> 2.5"
